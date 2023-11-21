@@ -1,7 +1,10 @@
 <h1>Hi, I am Francesco! <br/><a href="www.linkedin.com/in/francesco-allegrini-517871229">Cybersecurity Student</a>
 
+<h2>👨‍💻 Full-Stack experience sample</h2>
+- <b>PHP</b>
+  -  [CRM module from 0 by me](https://github.com/FraAlle/Coding/blob/main/Full-Stack_work_example)
+  
 <h2>👨‍💻 Cyber Security projects:</h2>
-
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
