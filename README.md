@@ -1,7 +1,9 @@
+<!--TOP IMMAGE SECTIO-->
 <p id="immage">
   <img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:1242px;height:311px" text-align:center;>
 </p>
 
+<!--TITLE-->
 <h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying about cybersecurity(Blue Team)</h1>
 
@@ -55,8 +57,8 @@
 
 <!--EXTRA TOOLS ICONS-->
 <div id="Extra_tools">
-  <h2>Other tools I know to use:</h2>
-  <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></p>
+  <h2>🔧 Other tools I know to use</h2>
+  <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="Virtualbox" width="40" height="40"><img src="https://vectorified.com/images/vmware-workstation-icon-24.jpg" alt="vmware" height="40" width="40"></p>
 </div>
 
 <!--CONTACT-->
