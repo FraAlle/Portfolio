@@ -50,7 +50,7 @@
 <h2>📲 Connect with me:</h2>
 <ul>
   <li>
-    <h3>Linkedin: <a href="https://www.linkedin.com/in/francesco-allegrini-517871229/"><img align="left" alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&f=1&nofb=1&ipt=ff5043e334996e77b43b4839b64f0540bfb58cbf835796432c078d3dc0167c9e&ipo=images"/></h3>
+    <h3>Linkedin: <a href="https://www.linkedin.com/in/francesco-allegrini-517871229/"><img alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&f=1&nofb=1&ipt=ff5043e334996e77b43b4839b64f0540bfb58cbf835796432c078d3dc0167c9e&ipo=images"/></h3>
   </li>
   <li>
     <h3>Email: fra.allegrini99@gmail.com</h3>
