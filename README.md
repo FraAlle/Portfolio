@@ -15,10 +15,10 @@
           🛠️ Cybersecurity Startup Program <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">here</a>.
         </li>
         <li>
-          ⚙️ Offensive cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">here</a>.
+          ⚙️ Offensive cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_workshops/Buffer_Overflow_Exploit.mp4">here</a>.
         </li>
         <li>
-          🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Talleres.md">here</a>.
+          🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_workshops/Talleres.md">here</a>.
         </li>
       </ul>
     </li>
@@ -43,6 +43,9 @@
   <ul>
     <li>
       <h3>🍯 Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
+    </li>
+    <li>
+      <h3></h3>
     </li>
   </ul>
 </div>
