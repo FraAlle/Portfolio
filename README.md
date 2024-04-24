@@ -1,5 +1,5 @@
 <p id="immage">
-  <img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:40%;height:40%" margin="auto">
+  <img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:40%;height:40%" text-align:center;>
 </p>
 
 <h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
