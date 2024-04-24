@@ -12,7 +12,10 @@
 <div id="About_me"><h2>💡 About me:</h2>
   <ul dir="auto">
     <li>
-      <h3>Technical Engineer in Telecommunications and IT Systems. I have built a portable rack for my Final Degree Project. You can see the documentation <a href="https://github.com/FraAlle/Frontpage/blob/main/FCT_Project/FCT_Project_ESP.pdf">here</a>.
+      <h3>🧰 Technical Engineer in Telecommunications and IT Systems. I have built a portable rack for my Final Degree Project. You can see the documentation <a href="https://github.com/FraAlle/Frontpage/blob/main/FCT_Project/FCT_Project_ESP.pdf">here</a>.
+    </li>
+    <li>
+      <h3>📝 I study Telematics Engineering at the University of Valencia.</h3>
     </li>
     <li>
       <h3>🔎 Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
@@ -30,9 +33,6 @@
           🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_workshops/Talleres.md">here</a>.
         </li>
       </ul>
-    </li>
-    <li>
-
     </li>
   </ul>
 </div>
