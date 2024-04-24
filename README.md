@@ -1,21 +1,21 @@
 <h1 align="center">Hi 🙌, I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying cybersecurity(Blue Team)</h1>
 
-<div id><h3>About me:</h3>
+<div id><h2>About me:</h2>
   <ul dir="auto">
     <li>
       Courius about OSINT and defense maneuvers against vulnerabilities
     </li>
     <li>
-      <h3>Participate on every cybersecurity iniciative near me. 
+      <h3>Participate on every cybersecurity iniciative near me.</h3>
       <ul id="participations">
         <li>
-          <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">Cybersecurity Startup Program</h3>
+          <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">Cybersecurity Startup Program
         </li>
         <li>
           <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">Offensive cybersecurity workshop in the University of Valencia(UV)
         </li>
-  </ul>
+      </ul>
 </div>
 
 <div id="Work_Experience">
