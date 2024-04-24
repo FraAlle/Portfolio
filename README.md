@@ -15,8 +15,6 @@
         <li>
           <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">Offensive cybersecurity workshop in the University of Valencia(UV)
         </li>
-      
-    </li>
   </ul>
 </div>
 
