@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
-<br/><h1>Currently studying cybersecurity(Blue Team)</h1>
+<br/><h1>Currently studying about cybersecurity(Blue Team)</h1>
 
 
 <!--ABOUT ME SECTION-->
@@ -39,7 +39,7 @@
     </li>
     <li>
       <h3>These are the tools I used during my experience.</h3>
-      <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></p>
+      <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </li>
   </ul>
   <h2>👨‍💻 Cyber Security projects:</h2>
@@ -51,6 +51,11 @@
       <h3>🛡️ I am following the SOC Analyst 1 path in the tryhackme platform, you can check it <a href="https://tryhackme.com/path/outline/soclevel1">here</a>.</h3>
     </li>
   </ul>
+</div>
+
+<!--EXTRA TOOLS ICONS-->
+<div id="Extra_tools">
+  <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></p>
 </div>
 
 <!--CONTACT-->
@@ -65,5 +70,3 @@
     </li>
   </ul>
 </div>
-
-<!--[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
