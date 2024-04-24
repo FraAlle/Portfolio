@@ -1,4 +1,4 @@
-<img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper">
+<img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:573px;height:143px">
 
 <h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying cybersecurity(Blue Team)</h1>
