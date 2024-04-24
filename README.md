@@ -1,4 +1,4 @@
-<h1>Hi, I am Francesco! <br/><a href="www.linkedin.com/in/francesco-allegrini-517871229">Cybersecurity Student</a>
+<h1 align="center"><br/><a href="www.linkedin.com/in/francesco-allegrini-517871229"></a>Hi, I am Francesco! Cybersecurity</h1>
 
 <h2>👨‍💻 Full-Stack experience sample</h2>
 - <b>PHP</b>
