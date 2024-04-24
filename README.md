@@ -4,13 +4,16 @@
 </p>
 
 <!--TITLE-->
-<h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
+<h1 align="center">👋 Hi, I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying about cybersecurity(Blue Team)</h1>
 
 
 <!--ABOUT ME SECTION-->
 <div id="About_me"><h2>💡 About me:</h2>
   <ul dir="auto">
+    <li>
+      <h3>Technical Engineer in Telecommunications and IT Systems. I have built a portable rack for my Final Degree Project. You can see the documentation <a href="https://github.com/FraAlle/Frontpage/blob/main/FCT_Project/FCT_Project_ESP.pdf">here</a>.
+    </li>
     <li>
       <h3>🔎 Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
     </li>
@@ -27,6 +30,9 @@
           🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_workshops/Talleres.md">here</a>.
         </li>
       </ul>
+    </li>
+    <li>
+
     </li>
   </ul>
 </div>
@@ -57,7 +63,7 @@
 
 <!--EXTRA TOOLS ICONS-->
 <div id="Extra_tools">
-  <h2>🔧 Other tools I know to use</h2>
+  <h2>🔧 Other tools I use</h2>
   <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="Virtualbox" width="40" height="40"><img src="https://vectorified.com/images/vmware-workstation-icon-24.jpg" alt="vmware" height="40" width="40"></p>
 </div>
 
