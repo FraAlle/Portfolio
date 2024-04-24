@@ -6,18 +6,23 @@
 <div id><h2>💡 About me:</h2>
   <ul dir="auto">
     <li>
-      <h3>Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
+      <h3>🔎 Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
     </li>
     <li>
       <h3>Participate on every cybersecurity iniciative near me.</h3>
       <ul id="participations">
         <li>
-          <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">Cybersecurity Startup Program
+          🛠️ Cybersecurity Startup Program <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">here.
         </li>
         <li>
-          <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">Offensive cybersecurity workshop in the University of Valencia(UV)
+          ⚙️ Offensive cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">here.
+        </li>
+        <li>
+          🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Talleres.md">here.
         </li>
       </ul>
+    </li>
+  </ul>
 </div>
 
 <!--WORK EXPERIENCE-->
