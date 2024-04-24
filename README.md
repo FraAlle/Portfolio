@@ -1,6 +1,6 @@
 <!--TOP IMMAGE SECTIO-->
 <p id="immage">
-  <img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:1242px;height:311px" text-align:center;>
+  <img src="wallpaper.jfif" alt="Wallpaper" style="width:1242px;height:311px" text-align:center;>
 </p>
 
 <!--TITLE-->
