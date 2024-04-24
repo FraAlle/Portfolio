@@ -4,7 +4,7 @@
 <div id><h3>About me:</h3>
   <ul dir="auto">
     <li>
-      
+      Courius about OSINT and defense maneuvers against vulnerabilities
     </li>
   </ul>
 
