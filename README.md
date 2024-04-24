@@ -44,7 +44,7 @@
       <h3>🍯 Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
     </li>
     <li>
-      <h3><img src="https://assets.tryhackme.com/img/paths/SOCL1.svg" alt="Tryhackme SOC Analyst icon" style="width:40px;height:40px;">I am following the SOC Analyst 1 path in the tryhackme platform.</h3>
+      <h3>🛡️ I am following the SOC Analyst 1 path in the tryhackme platform, you can check it <a href="https://tryhackme.com/path/outline/soclevel1">here</a>.</h3>
     </li>
   </ul>
 </div>
