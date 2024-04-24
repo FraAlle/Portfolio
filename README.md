@@ -12,13 +12,13 @@
       <h3>Participate on every cybersecurity iniciative near me.</h3>
       <ul id="participations">
         <li>
-          🛠️ Cybersecurity Startup Program <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">here.
+          🛠️ Cybersecurity Startup Program <a href="https://github.com/FraAlle/Frontpage/blob/main/Hackaton2024/Ciberseguridad_Hackaton_StartupValencia.pdf">here</a>.
         </li>
         <li>
-          ⚙️ Offensive cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">here.
+          ⚙️ Offensive cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Buffer_Overflow_Exploit.mp4">here</a>.
         </li>
         <li>
-          🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Talleres.md">here.
+          🖥️ Hardening cybersecurity workshop in the University of Valencia(UV) <a href="https://github.com/FraAlle/Cybersecurity/blob/main/UV_projects/Talleres.md">here</a>.
         </li>
       </ul>
     </li>
@@ -31,7 +31,7 @@
   <h2>👨‍💻 Full-Stack web developer</h2>
   <ul id="Work_Experience">
     <li>
-      <h3><a href="https://github.com/FraAlle/Coding/blob/main/Full-Stack_work_example/admin_tickets.php">This is an example of my work</h3>
+      <h3>This is an example of my work: <a href="https://github.com/FraAlle/Coding/blob/main/Full-Stack_work_example/admin_tickets.php">here</a>.</h3>
     </li>
     <li>
       <h3>These are the tools I used during my experience.</h3>
@@ -42,7 +42,7 @@
   <h2>👨‍💻 Cyber Security projects:</h2>
   <ul>
     <li>
-      <h3>Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
+      <h3>🍯 Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
     </li>
   </ul>
 </div>
@@ -50,7 +50,7 @@
 <h2>📲 Connect with me:</h2>
 <ul>
   <li>
-    <h3><a href="https://www.linkedin.com/in/francesco-allegrini-517871229/">Linkedin</h3>
+    <h3><a href="https://www.linkedin.com/in/francesco-allegrini-517871229/"><img align="left" alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&f=1&nofb=1&ipt=ff5043e334996e77b43b4839b64f0540bfb58cbf835796432c078d3dc0167c9e&ipo=images"/></h3>
   </li>
   <li>
     <h3>Email: fra.allegrini99@gmail.com</h3>
@@ -59,5 +59,3 @@
 
 
 <!--[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-
-[linkedin]: www.linkedin.com/in/francesco-allegrini-517871229
