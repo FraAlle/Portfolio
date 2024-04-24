@@ -1,10 +1,12 @@
-<h1 align="center">Hi 🙌, I am Francesco Allegrini!</h1>
+<h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying cybersecurity(Blue Team)</h1>
 
-<div id><h2>About me:</h2>
+
+<!--ABOUT ME SECTION-->
+<div id><h2>💡 About me:</h2>
   <ul dir="auto">
     <li>
-      Courius about OSINT and defense maneuvers against vulnerabilities
+      <h3>Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
     </li>
     <li>
       <h3>Participate on every cybersecurity iniciative near me.</h3>
@@ -18,12 +20,10 @@
       </ul>
 </div>
 
+<!--WORK EXPERIENCE-->
 <div id="Work_Experience">
-
-  <h1>Work experience in IT:</h1>
-
+  <h1>💻 Work experience in IT:</h1>
   <h2>👨‍💻 Full-Stack web developer</h2>
-  
   <ul id="Work_Experience">
     <li>
       <h3><a href="https://github.com/FraAlle/Coding/blob/main/Full-Stack_work_example/admin_tickets.php">This is an example of my work</h3>
@@ -35,9 +35,23 @@
   </ul>
 
   <h2>👨‍💻 Cyber Security projects:</h2>
-
+  <ul>
+    <li>
+      <h3>Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
+    </li>
+  </ul>
 </div>
+
 <h2>📲 Connect with me:</h2>
+<ul>
+  <li>
+    <h3><a href="https://www.linkedin.com/in/francesco-allegrini-517871229/">Linkedin</h3>
+  </li>
+  <li>
+    <h3>Email: fra.allegrini99@gmail.com</h3>
+  </li>
+</ul>
+
 
 <!--[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
 
