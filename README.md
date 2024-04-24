@@ -38,18 +38,18 @@
       <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></p>
     </li>
   </ul>
-
   <h2>👨‍💻 Cyber Security projects:</h2>
   <ul>
     <li>
       <h3>🍯 Created an honeypot(utilizing Vultr) and I have analized the connections with the SIEM.</h3>
     </li>
     <li>
-      <h3></h3>
+      <h3><a img src="https://assets.tryhackme.com/img/paths/SOCL1.svg">I am following the SOC Analyst 1 path in the tryhackme platform.</h3>
     </li>
   </ul>
 </div>
 
+<!--CONTACT-->
 <h2>📲 Connect with me:</h2>
 <ul>
   <li>
