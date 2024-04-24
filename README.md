@@ -1,11 +1,13 @@
-<img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:40%;height:40%" margin="auto">
+<p id="immage">
+  <img src="458832b6-5a37-4c2e-89ce-803edd103f68.jfif" alt="Wallpaper" style="width:40%;height:40%" margin="auto">
+</p>
 
 <h1 align="center">Hi 🙌 , I am Francesco Allegrini!</h1>
 <br/><h1>Currently studying cybersecurity(Blue Team)</h1>
 
 
 <!--ABOUT ME SECTION-->
-<div id><h2>💡 About me:</h2>
+<div id="About_me"><h2>💡 About me:</h2>
   <ul dir="auto">
     <li>
       <h3>🔎 Courius about OSINT and defense maneuvers against vulnerabilities.</h3>
@@ -52,15 +54,16 @@
 </div>
 
 <!--CONTACT-->
-<h2>📲 Connect with me:</h2>
-<ul>
-  <li>
-    <h3>Linkedin: <a href="https://www.linkedin.com/in/francesco-allegrini-517871229/"><img alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&f=1&nofb=1&ipt=ff5043e334996e77b43b4839b64f0540bfb58cbf835796432c078d3dc0167c9e&ipo=images"/></h3>
-  </li>
-  <li>
-    <h3>Email: fra.allegrini99@gmail.com</h3>
-  </li>
-</ul>
-
+<div id="Contact">
+  <h2>📲 Connect with me:</h2>
+  <ul>
+    <li>
+      <h3>Linkedin: <a href="https://www.linkedin.com/in/francesco-allegrini-517871229/"><img alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&f=1&nofb=1&ipt=ff5043e334996e77b43b4839b64f0540bfb58cbf835796432c078d3dc0167c9e&ipo=images"/></h3>
+    </li>
+    <li>
+      <h3>Email: fra.allegrini99@gmail.com</h3>
+    </li>
+  </ul>
+</div>
 
 <!--[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
