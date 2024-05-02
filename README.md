@@ -59,6 +59,9 @@
     <li>
       <h3>🛡️ I am following the SOC Analyst 1 path in the tryhackme platform, you can check it <a href="https://tryhackme.com/path/outline/soclevel1">here</a>.</h3>
     </li>
+    <li>
+      <h3>(IN PROGRESS) Making an house SOC utilizing an Raspberry 4. Once I have completed it, I will update this section and upload a file from my GitHub repository.</h3>
+    </li>
   </ul>
 </div>
 
