@@ -38,7 +38,7 @@
   </ul>
 </div>
 
-<!--WORK EXPERIENCE-->
+<!--WORK EXPERIENCE -->
 <div id="Work_Experience">
   <h1>💻 Work experience in IT:</h1>
   <h2>👨‍💻 Full-Stack web developer</h2>
